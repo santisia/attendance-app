@@ -1,7 +1,7 @@
 {
   "name": "MCGI Olaya Attendance",
   "short_name": "MCGI Attendance",
-  "start_url": "REPLACE_WITH_YOUR_APPS_SCRIPT_EXEC_URL",
+  "start_url": "YOUR_CURRENT_APPS_SCRIPT_EXEC_URL",
   "display": "standalone",
   "background_color": "#1e3a8a",
   "theme_color": "#1e3a8a",
